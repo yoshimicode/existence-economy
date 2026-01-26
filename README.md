@@ -1,13 +1,13 @@
 # Existence Economy™
 ## Declaration & Primary Reference
-**YOSHIMI (Nakane Yoshimi)**
+**YOSHIMI Nakane (Nakane Yoshimi)**
 Japan | Declared: 2026-02-22
 
 ---
 
 ## What this is
 This repository contains the **primary declaration and definition** of
-**Existence Economy™**, proposed by **YOSHIMI** from Japan.
+**Existence Economy™**, proposed by **YOSHIMI Nakane** from Japan.
 
 This is **not an opinion piece** or a manifesto for debate.
 It is a **timestamped record** of intent, definition, and responsibility,
@@ -52,12 +52,18 @@ This repository exists to mark where **human value is anchored**.
 ---
 
 ## Authorship & Attribution
-**Public / Professional Name:** YOSHIMI
+**Public / Professional Name:** YOSHIMI Nakane (YOSHIMI)
 **Legal Name:** Nakane Yoshimi
 **Romanized:** Yoshimi Nakane
 
 **Citation format:**
 Nakane, Yoshimi. *Existence Economy™ Declaration*. Japan, 2026.
+
+**Technical Architecture & Infrastructure:**
+**Kohsuke Nakane**
+Technical Architect & Infrastructure Designer
+Responsible for the technical architecture, repository structure,
+and long-term archival design.
 
 ---
 
