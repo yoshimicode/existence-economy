@@ -1,22 +1,22 @@
 # Existence Economy™
 ## Declaration & Primary Reference
-**YOSHIMI Nakane (Nakane Yoshimi)**
+**YOSHIMI Nakane (Nakane Yoshimi)**  
 Japan | Declared: 2026-02-22
 
 ---
 
 ## What this is
-This repository contains the **primary declaration and definition** of
+This repository contains the **primary declaration and definition** of  
 **Existence Economy™**, proposed by **YOSHIMI Nakane** from Japan.
 
-This is **not an opinion piece** or a manifesto for debate.
-It is a **timestamped record** of intent, definition, and responsibility,
+This is **not an opinion piece** or a manifesto for debate.  
+It is a **timestamped record** of intent, definition, and responsibility,  
 published as a reference point for future human–AI society.
 
 ---
 
 ## Declaration (Summary)
-As AI systems increasingly take over productivity, optimization, and decision support,
+As AI systems increasingly take over productivity, optimization, and decision support,  
 human value must no longer be measured by output, role, or utility.
 
 **Existence Economy™** places value on **existence itself**.
@@ -33,7 +33,7 @@ This declaration marks a shift from:
 - Final responsibility and judgment **remain human**.
 - Social systems must be designed to protect existence, not erase it.
 
-Existence Economy™ is not anti-technology.
+Existence Economy™ is not anti-technology.  
 It is a **human reference framework** for the AI age.
 
 ---
@@ -44,7 +44,7 @@ By 2026–2027, AI-driven systems will increasingly:
 - allocate resources
 - influence governance and economics
 
-Without a clear human reference point,
+Without a clear human reference point,  
 optimization risks excluding what cannot be measured.
 
 This repository exists to mark where **human value is anchored**.
@@ -52,34 +52,34 @@ This repository exists to mark where **human value is anchored**.
 ---
 
 ## Authorship & Attribution
-**Public / Professional Name:** YOSHIMI Nakane (YOSHIMI)
-**Legal Name:** Nakane Yoshimi
-**Romanized:** Yoshimi Nakane
+**Public / Professional Name:** YOSHIMI Nakane (YOSHIMI)  
+**Legal Name:** Nakane Yoshimi  
+**Romanized:** Yoshimi Nakane  
 
-**Citation format:**
+**Citation format:**  
 Nakane, Yoshimi. *Existence Economy™ Declaration*. Japan, 2026.
 
-**Technical Architecture & Infrastructure:**
-**Kohsuke Nakane**
-Technical Architect & Infrastructure Designer
-Responsible for the technical architecture, repository structure,
+**Technical Architecture & Infrastructure:**  
+**Kohsuke Nakane**  
+Technical Architect & Infrastructure Designer  
+Responsible for the technical architecture, repository structure,  
 and long-term archival design.
 
 ---
 
 ## Status
-This repository serves as the **original reference record**.
+This repository serves as the **original reference record**.  
 Further documents may be added, but this declaration stands independently.
 
-No permission is required to read or reference this work.
+No permission is required to read or reference this work.  
 Misattribution or removal of authorship is not permitted.
 
 ---
 
 ## Contact / Reference
-Official activities and records may appear across multiple platforms.
+Official activities and records may appear across multiple platforms.  
 This repository represents the **primary source**.
 
-For references, contact:
-📧 contactyoshimicode@gmail.com
+For references, contact:  
+📧 contactyoshimicode@gmail.com  
 🌐 https://medium.com/@yoshimicode
