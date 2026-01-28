@@ -57,7 +57,8 @@ This repository exists to mark where **human value is anchored**.
 **Romanized:** Yoshimi Nakane  
 
 **Citation format:**  
-Nakane, Yoshimi. *Existence Economy™ Declaration*. Japan, 2026.
+Nakane, Yoshimi. *Existence Economy™ Declaration*. Japan, 2026.  
+DOI: https://doi.org/10.5281/zenodo.18397072
 
 **Technical Architecture & Infrastructure:**  
 **Kohsuke Nakane**  
