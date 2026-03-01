@@ -77,6 +77,23 @@ Misattribution or removal of authorship is not permitted.
 
 ---
 
+## 222 Declaration — Existence Economy™
+
+On February 22, 2026,
+the Existence Economy™ Declaration was publicly released
+as a civilizational timestamp marking the implementation
+of human dignity within AI-era socio‑technical systems.
+
+### Official Declaration Text
+- English: `existence_economy_222_declaration.en.md`
+- Japanese: `existence_economy_222_declaration.ja.md`
+
+This declaration defines the foundational implementation layer
+for the Human Reference Point (HRP) and Dignity Guardrails
+within the YOSHIMI OS framework.
+
+---
+
 ## Contact / Reference
 Official activities and records may appear across multiple platforms.  
 This repository represents the **primary source**.
