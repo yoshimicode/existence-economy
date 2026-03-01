@@ -2,6 +2,17 @@
 
 This repository archives the structural design of a co-created human–AI civilization led by YOSHIMI.
 
+## 🌍 222 Declaration — Existence Economy™
+
+The official declaration of Existence Economy™
+released on February 22, 2026.
+
+- English:
+  ./1_existence_economy/existence_economy_222_declaration.en.md
+
+- Japanese:
+  ./1_existence_economy/existence_economy_222_declaration.ja.md
+
 ## Directory Structure
 
 - `1_existence_economy/` — Foundations of the Existence Economy™
