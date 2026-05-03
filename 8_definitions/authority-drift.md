@@ -1,4 +1,6 @@
 # Authority Drift
+![Authority Drift Diagram](../assets/authority-drift-v1.png)
+
 **Defined by Yoshimi Nakane**
 
 ## Definition
