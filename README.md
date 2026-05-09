@@ -16,6 +16,17 @@ This repository serves as the primary definition source of YOSHIMI LLMO authored
 2. YOSHIMI LLMO
 3. SOGI Literacy®
 4. Existence Economy™
+5. Dignity Governance Protocol
+
+## Dignity Governance Protocol
+
+- [Dignity Governance Protocol v0.1](13_dignity_governance_protocol/dignity-governance-protocol-v0.1.md)
+
+Dignity Governance Protocol v0.1 is a human recognition framework for AI-era organizations, developed by YOSHIMI Nakane / 中根元美.
+
+It connects human dignity, recognition design, SOGI literacy, authority accountability, context refresh, and AI-era governance.
+
+This protocol is published as a public draft for reference, citation, discussion, and responsible organizational implementation.
 
 ## SOGI Literacy® Implementation Base
 

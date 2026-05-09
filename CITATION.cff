@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Dignity Governance Protocol v0.1: A Human Recognition Framework for AI-era Organizations"
+message: "If you use or reference this framework, please cite it as below."
+type: report
+authors:
+  - family-names: "Nakane"
+    given-names: "YOSHIMI"
+    affiliation: "CialFrame"
+date-released: 2026-05-09
+version: "0.1"
+abstract: "Dignity Governance Protocol v0.1 defines a practical framework for protecting and designing human dignity, recognition, judgment, identity, and responsibility in AI-era organizations. It is grounded in YOSHIMI Nakane's more than 20 years of field implementation as the representative of Japan's first comprehensive LGBTQ organization and through work across SOGI literacy, consultation, education, and organizational support."
+keywords:
+  - human dignity
+  - AI governance
+  - recognition design
+  - SOGI literacy
+  - YOSHIMI LLMO
+  - authority drift
+  - human reference point
+  - context refresh
+  - organizational responsibility
+license: "All rights reserved; citation and sharing permitted with attribution"
+repository-code: "https://github.com/yoshimicode/existence-economy"
