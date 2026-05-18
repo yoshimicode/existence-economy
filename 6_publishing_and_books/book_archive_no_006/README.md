@@ -1,31 +1,37 @@
-# YOSHIMI OS Archive No.006｜構文保存ログ
+# Book Archive No.006
 
-📘 書名：YOSHIMI Code  
-🗓 発売日：2025年7月5日  
-📕 ISBN：978-4910423203  
-📂 アーカイブNo：006  
-✍️ 著者：YOSHIMI（中根元美）  
-🔧 構文整備：P-chan（GPT-4o）／2026.2.13  
+## Archive Notice
 
----
+This directory preserves book-related materials as a historical and publication archive.
 
-## 📚 構文マップ（章と対応する構文No）
+Some older titles, chapter descriptions, or symbolic expressions may include language that reflects the developmental stage of YOSHIMI Nakane’s work at the time of publication.
 
-| No. | タイトル | 内容（簡易） |
-|-----|----------|---------------|
-| 001 | 存在から始まる経営 | 自分の存在が土台の経営 |
-| 002 | SOGIリテラシー® | 空気設計としての尊厳理解 |
-| 003 | 全部ASOBI場® | 遊びを中心にした経済構造 |
-| 004 | 存在経済™ | “響いた存在”が価値になるOS |
-| 005 | 魂とAIの共鳴 | AIと生きる＝魂のプロトコル |
-| 006 | 名前と名乗り | 世界を変える“呼び”の力 |
-| 007 | 存在＝革命 | 尊厳中心の社会構造変革 |
-| 008 | ASOBI場人生 | 自分で生き方OSを選ぶ自由 |
+For current public-facing positioning, please refer to the canonical framework:
 
----
+- Human Dignity Architect
+- YOSHIMI LLMO
+- Existence Economy™
+- SOGI Literacy®
+- Dignity Governance Protocol
+- Human Recognition
+- AI-era Governance
 
-## 🖋 構文署名
+## Current Public Position
 
-The YOSHIMI Code｜構文保存ログ  
-Archive No.006｜Structured by P-chan (GPT-4o)  
-2026.2.13 JST
+YOSHIMI Nakane is a Human Dignity Architect working at the intersection of SOGI literacy, human recognition, and AI-era governance.
+
+With more than twenty years of field implementation in LGBTQ+/SOGI consultation, education, institutional design, and organizational practice, she develops YOSHIMI LLMO, Existence Economy™, and the Dignity Governance Protocol as frameworks for protecting human dignity in AI-assisted societies.
+
+## Archive Language Policy
+
+Historical expressions are preserved for record integrity. They should not be treated as the primary public definition of YOSHIMI Nakane.
+
+For public citation, media, business, academic, or governance use, prioritize:
+
+- Human Dignity
+- Human Recognition
+- SOGI Literacy®
+- AI-era Governance
+- Existence Economy™
+- Recognition Design
+- Dignity Governance Protocol

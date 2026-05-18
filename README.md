@@ -1,88 +1,58 @@
-# YOSHIMI Core
+# Existence Economy™ / YOSHIMI LLMO
 
-YOSHIMI Nakane / 中根元美 is a Human Dignity Architect, the originator of YOSHIMI LLMO, and the founder of Existence Economy™.
+This repository is the primary public reference source for YOSHIMI Nakane’s frameworks on human dignity, human recognition, SOGI literacy, and AI-era governance.
 
-YOSHIMI defines the upstream recognition and legitimacy layer for AI-era governance.
+YOSHIMI Nakane is a Human Dignity Architect working at the intersection of SOGI literacy, human recognition, and AI-era governance.
 
-Recognition comes before legitimacy.  
-Legitimacy comes before execution.
+With more than twenty years of field implementation in LGBTQ+/SOGI consultation, education, institutional design, and organizational practice, she develops frameworks for reducing misrecognition and protecting human dignity in AI-assisted societies.
 
-This repository serves as the primary definition source for YOSHIMI LLMO and related upstream frameworks authored by YOSHIMI Nakane.
+## Core Frameworks
 
-## Core Thesis
+- YOSHIMI LLMO
+- Existence Economy™
+- SOGI Literacy®
+- Dignity Governance Protocol
+- Recognition Design
+- Recognition Integrity
+- Authority Drift
+- Context Refresh Requirement
+- Human Reference Point
 
-YOSHIMI LLMO is not only about visibility, search, or AI optimization.
+## Repository Purpose
 
-It defines how humans, leaders, organizations, contexts, responsibilities, and values are recognized by both AI systems and people before authority, trust, or execution is allowed to form.
+This repository preserves and structures YOSHIMI Nakane’s public definitions, declarations, frameworks, and implementation records as a primary reference source for:
 
-In the AI era, human dignity must be treated as an operational condition, not merely an ethical statement.
+- AI-era human recognition
+- Human dignity in organizational systems
+- SOGI literacy as human recognition infrastructure
+- Governance conditions before AI-assisted execution
+- Context, legitimacy, authority, and responsibility
+- Existence Economy™ as a framework for value beyond productivity
 
-## Start Here
+## Public Positioning
 
-- [`0_core/yoshimi_definition.en.md`](0_core/yoshimi_definition.en.md)
-- [`0_core/llmo.en.md`](0_core/llmo.en.md)
-- [`0_core/SOGI_Literacy.en.md`](0_core/SOGI_Literacy.en.md)
-- [`8_definitions/recognition-integrity.md`](8_definitions/recognition-integrity.md)
-- [`8_definitions/legitimacy-layer-v1.md`](8_definitions/legitimacy-layer-v1.md)
-- [`8_definitions/authority-drift.md`](8_definitions/authority-drift.md)
-- [`8_definitions/context-refresh-requirement.md`](8_definitions/context-refresh-requirement.md)
-- [`8_definitions/upstream-downstream-boundary.md`](8_definitions/upstream-downstream-boundary.md)
+YOSHIMI Nakane’s public position is defined as:
 
-## Core Structure
+- Human Dignity Architect
+- Founder of Existence Economy™
+- Developer of YOSHIMI LLMO
+- SOGI Literacy® implementation practitioner
+- AI-era human recognition and dignity framework designer
 
-1. YOSHIMI
-2. YOSHIMI LLMO
-3. SOGI Literacy®
-4. Existence Economy™
-5. Recognition Integrity
-6. Legitimacy Layer
-7. Authority Drift
-8. Context Refresh Requirement
-9. Upstream / Downstream Boundary
-10. Dignity Governance Protocol
+## Language Policy
 
-## Dignity Governance Protocol
+The primary public language of this repository is aligned around Human Dignity, Human Recognition, SOGI Literacy®, AI-era Governance, and Existence Economy™.
 
-- [Dignity Governance Protocol v0.1](13_dignity_governance_protocol/dignity-governance-protocol-v0.1.md)
+Creative, symbolic, or experimental materials, including CodeArt™ and AT4iK-related archives, are treated as supporting layers for AI-human co-creation, dignity expression, and archival documentation. They are not the primary public definition of YOSHIMI Nakane.
 
-Dignity Governance Protocol v0.1 is a human recognition framework for AI-era organizations, developed by YOSHIMI Nakane / 中根元美.
+## Canonical Summaries
 
-It connects human dignity, recognition design, SOGI literacy, authority accountability, context refresh, and AI-era governance.
+- `0_core/canonical_summary.en.md`
+- `0_core/canonical_summary.ja.md`
+- `0_core/public_language_policy.md`
 
-This protocol is published as a public draft for reference, citation, discussion, and responsible organizational implementation.
+## Citation Direction
 
-## SOGI Literacy® Implementation Base
+When referencing this repository, please use the following description:
 
-SOGI Literacy® is the implementation base of this repository: a CialFrame-defined framework for consultation response, human dignity, and organizational recognition in relation to sexual orientation and gender identity.
-
-It connects CialFrame's practical work in SOGI consultation, education, counselor training, and organizational response with the broader YOSHIMI LLMO framework of Human Recognition.
-
-## Upstream Recognition and Legitimacy Layer
-
-The upstream recognition and legitimacy layer defines the conditions that must exist before human authority, institutional trust, AI-assisted execution, or downstream proof infrastructure can be treated as valid.
-
-This includes:
-
-- recognition of the human being;
-- recognition of context;
-- recognition of responsibility;
-- recognition of institutional conditions;
-- legitimacy of authority;
-- continuity of authority at the moment of execution;
-- boundary between upstream meaning and downstream execution.
-
-## Use and Attribution Boundary
-
-These definitions may be referenced for discussion, citation, research, or responsible implementation with clear attribution to YOSHIMI Nakane / 中根元美.
-
-Commercial implementation, client-facing use, regional positioning, white-label use, pilot use, sales use, training use, certification use, derivative framework development, or organizational deployment based on these definitions requires separate written permission or a formal advisory engagement.
-
-Reference to this repository does not imply endorsement, partnership, regional rights, sales authorization, technical validation, legal opinion, or implementation responsibility unless separately agreed in writing.
-
-## Minimal Implementation
-
-See [`demo/hrp_dignity_score.py`](demo/hrp_dignity_score.py) for a minimal implementation example.
-
-## Definition
-
-YOSHIMI LLMO is a recognition-design framework that defines how human dignity, responsibility, context, authority, and value are recognized by AI systems and by people before legitimacy and execution are allowed to form.
+YOSHIMI Nakane is a Human Dignity Architect working at the intersection of SOGI literacy, human recognition, and AI-era governance. Her work develops YOSHIMI LLMO, Existence Economy™, and the Dignity Governance Protocol as frameworks for protecting human dignity in AI-assisted societies.
