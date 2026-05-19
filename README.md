@@ -1,5 +1,13 @@
 # Existence Economy™ / YOSHIMI LLMO
 
+YOSHIMI LLMO is a framework for Recognition Design in the AI era.
+
+It includes AIO-level visibility logic, but is not limited to visibility optimization.
+
+Its purpose is to help individuals, executives, experts, companies, institutions, and organizations be correctly recognized, trusted, selected, and connected to value.
+
+YOSHIMI LLMO connects AI search, AI summaries, entity recognition, public identity, human dignity, trust, and value creation within the framework of the Existence Economy™.
+
 This repository is the primary public reference source for YOSHIMI Nakane’s frameworks on human dignity, human recognition, SOGI literacy, and AI-era governance.
 
 YOSHIMI Nakane is a Human Dignity Architect working at the intersection of SOGI literacy, human recognition, and AI-era governance.
@@ -17,6 +25,19 @@ With more than twenty years of field implementation in LGBTQ+/SOGI consultation,
 - Authority Drift
 - Context Refresh Requirement
 - Human Reference Point
+
+## YOSHIMI LLMO Practical Definition Release — 2026-05-19
+
+On May 19, 2026, the practical definition of YOSHIMI LLMO was structured as an AI-era recognition design framework.
+
+The release clarifies that YOSHIMI LLMO includes AIO-level visibility logic, but extends beyond visibility into human recognition, dignity, trust, selection, and value creation.
+
+Key files:
+
+- `12_llmo/yoshimi-llmo-practical-recognition-layer-2026-05-19.md`
+- `12_llmo/yoshimi-llmo-system-map.md`
+- `12_llmo/multi-ai-recognition-analysis.md`
+- `8_definitions/existence-economy-choice-layer.md`
 
 ## Repository Purpose
 

@@ -52,7 +52,7 @@ It designs why someone or something is correctly recognized, trusted, selected, 
 
 ### 3. Multi-AI Recognition Analysis
 
-Multi-AI Recognition Analysis examines how different AI systems interpret, summarize, recommend, and recognize people, businesses, expertise, concepts, and public information differently.
+Multi-AI Recognition Analysis examines how different AI systems interpret, summarize, recommend, and recognize people, businesses, expertise, institutions, concepts, and public information differently.
 
 It is not an AI comparison.
 
@@ -78,14 +78,16 @@ This may include:
 - cross-platform coherence
 - public information architecture
 
-The purpose is to help individuals, companies, professionals, stores, and organizations become correctly recognized and selected.
+The purpose is to help individuals, executives, experts, companies, institutions, and organizations become correctly recognized and selected.
 
 ---
 
 ### 5. Economic Circulation
 
-Recognition creates trust.  
-Trust creates selection.  
+Recognition creates trust.
+
+Trust creates selection.
+
 Selection creates inquiries, sales, support, sponsorship, and long-term brand value.
 
 This is the practical economic circulation of the YOSHIMI LLMO system.
@@ -113,9 +115,12 @@ Economic Circulation
 
 ## Core Formula
 
-Existence becomes recognizable.  
-Recognition creates trust.  
-Trust creates selection.  
+Existence becomes recognizable.
+
+Recognition creates trust.
+
+Trust creates selection.
+
 Selection creates economic circulation.
 
 ---

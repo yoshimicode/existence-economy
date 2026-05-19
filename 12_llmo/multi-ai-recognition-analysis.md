@@ -3,7 +3,7 @@
 > **Specification Release:** May 19, 2026  
 > **Core Status:** Methodological layer of YOSHIMI LLMO
 
-Multi-AI Recognition Analysis is the process of observing how different AI systems interpret, summarize, recommend, and recognize people, businesses, expertise, and public information differently.
+Multi-AI Recognition Analysis is the process of observing how different AI systems interpret, summarize, recommend, and recognize people, businesses, expertise, institutions, concepts, and public information differently.
 
 It is not an AI comparison.
 
@@ -15,7 +15,7 @@ It is the analysis of how recognition changes across AI systems and digital envi
 
 ## Core Definition
 
-Multi-AI Recognition Analysis is a recognition analysis method that examines how the same person, company, professional, store, organization, concept, or public profile may be recognized differently across multiple AI systems.
+Multi-AI Recognition Analysis is a recognition analysis method that examines how the same person, executive, expert, company, institution, organization, concept, or public profile may be recognized differently across multiple AI systems.
 
 Even when referencing the same public information, different AI systems may produce different forms of:
 
@@ -53,9 +53,9 @@ Multi-AI Recognition Analysis examines gaps in:
 
 ## Why It Matters
 
-In the AI era, people, companies, stores, and organizations are increasingly interpreted by AI systems before human decisions are made.
+In the AI era, people, companies, institutions, and organizations are increasingly interpreted by AI systems before human decisions are made.
 
-If AI systems misunderstand who someone is, what a company does, or why a store or professional should be trusted, that misunderstanding can affect:
+If AI systems misunderstand who someone is, what a company does, why an institution matters, or why a professional should be trusted, that misunderstanding can affect:
 
 - trust
 - selection
@@ -77,11 +77,9 @@ It becomes part of economic infrastructure.
 
 YOSHIMI LLMO uses Multi-AI Recognition Analysis to examine how recognition is formed across AI and human environments.
 
-The goal is to identify recognition gaps and design more accurate, trusted, and aligned recognition structures for individuals, companies, professionals, stores, and organizations.
+The goal is to identify recognition gaps and design more accurate, trusted, and aligned recognition structures for individuals, executives, experts, companies, institutions, and organizations.
 
-This supports the broader purpose of YOSHIMI LLMO:
-
-to help people and organizations become correctly recognized, trusted, selected, and connected to value in the AI era.
+This supports the broader purpose of YOSHIMI LLMO: to help people and organizations become correctly recognized, trusted, selected, and connected to value in the AI era.
 
 ---
 
@@ -90,8 +88,8 @@ to help people and organizations become correctly recognized, trusted, selected,
 Multi-AI Recognition Analysis can be applied to:
 
 - entrepreneurs and executives
-- small businesses and stores
-- professionals and consultants
+- experts and professionals
+- companies and institutions
 - educators and creators
 - healthcare and support professionals
 - public figures
