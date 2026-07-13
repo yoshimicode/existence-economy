@@ -1,30 +1,49 @@
-# Structure Overview
+# YOSHIMI Core Structure
 
-1. YOSHIMI (Origin)
-2. YOSHIMI LLMO (Core Framework)
-3. SOGI Literacy® (Implementation Base)
-4. Existence Economy™ (Expansion)
+## 0_core
+Canonical identity, primary definitions, and public language.
 
-## Repository Layers
+## 1_existence_economy
+Existence Economy™ concepts and value architecture.
 
-### 0_core
+## 2_at4ik_transmission
+AT4iK transmission records and related materials.
 
-Primary definitions for YOSHIMI, YOSHIMI LLMO, SOGI Literacy®, and related core concepts.
+## 3_philosophy_and_ethics
+Philosophical and ethical foundations.
 
-### 4_sogi_literacy_and_education
+## 4_sogi_literacy_and_education
+SOGI Literacy® definitions, education, and implementation records.
 
-Implementation layer for SOGI Literacy®, SOGI Counselor®, SOGI consultation response, education, and organizational response frameworks.
+## 6_publishing_and_books
+Published works and book archives.
 
-### 12_llmo
+## 7_archive_and_doi
+Archival records, DOI-related materials, and preservation.
 
-Recognition design layer for YOSHIMI LLMO and Human Recognition.
+## 8_definitions
+Definitions, interfaces, boundaries, and recognition concepts.
 
-## Structural Relationship
+## 10_codeart_protocol
+CodeArt™ protocol and AI-human co-creation records.
 
-YOSHIMI is the origin.
-YOSHIMI LLMO is the core recognition design framework.
-SOGI Literacy® is the practical implementation base.
-Existence Economy™ is the social and economic expansion layer.
+## 11_existence_os_protocol
+Existence OS protocol materials.
 
-SOGI Literacy® is not identical to YOSHIMI LLMO.
-It functions as one implementation domain of Human Recognition within YOSHIMI LLMO.
+## 12_llmo
+YOSHIMI LLMO definitions, system maps, analysis, and implementation.
+
+## 13_dignity_governance_protocol
+Dignity Governance Protocol drafts, releases, and governance records.
+
+## 14_yoshimi_code
+YOSHIMI Code direction statements, research records, definitions, architecture, editorial principles, specifications, and historical versions.
+
+Initial files:
+
+- `yoshimi-code-recognition-os-direction-v0.1.ja.md`
+- `yoshimi-code-recognition-os-direction-v0.1.en.md`
+- `document-status-and-versioning-policy.md`
+
+## demo
+Minimal implementation examples.
